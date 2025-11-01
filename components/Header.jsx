@@ -7,7 +7,7 @@ export default function Header(){
         <Link href="#home" className="flex items-center gap-3">
           <img src="/assets/logo.png" alt="Safomark logo" className="h-12 w-12 object-contain"/>
           <div>
-            <div className="font-bold text-lg">Safomark Solutions urban</div>
+            <div className="font-bold text-lg">Safomark Solutions </div>
             <div className="text-xs text-slate-500">Leaders in Road Marking & Surface Coating Solutions</div>
           </div>
         </Link>

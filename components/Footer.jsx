@@ -11,7 +11,7 @@ export default function Footer(){
         </div>
 
         <div className="text-sm text-slate-600">
-          © {new Date().getFullYear()} Safomark Solutions urban. All rights reserved.
+          © {new Date().getFullYear()} Safomark Solutions. All rights reserved.
         </div>
       </div>
     </footer>
